@@ -1,0 +1,1 @@
+Hello, Huffman encoding works efficiently!
